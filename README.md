@@ -12,7 +12,7 @@ This project uses OpenAI's GPT-3.5-turbo model to generate a formal, personalize
 - OpenAI API
 - Google Colab
 
-## 📷 Output
+## 📷 Output (Some output images for quick glance)
 
 ![Prompt 3 Output](prompt3_output.png)
 
